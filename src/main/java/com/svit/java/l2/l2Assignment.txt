@@ -1,0 +1,49 @@
+1. please create your Github account if you don't have
+
+2. Please install Eclipse if you haven't installed yet
+
+3. please read attached java class fundamental and we will start java programming 
+	interface
+	class
+	inheritance
+	Object
+	Interview questions	
+
+4. please practice algorithm 
+	FizzBuzz (evaluation )
+	consider a range of positive integers from 1 to a limit. For each value, print either a string
+	or the value based on whether the number is a multiple of 3, 5, both or neither. Determine the string to
+	return based on the following rules for an integer i:
+	If i is a multiple of both 3 and 5, print FizzBuzz.
+	If i is a multiple of 3 (but not 5), print Fizz.
+	If i is a multiple of 5 (but not 3), print Buzz.
+	For all others, print the value of i.
+
+	ZigZag Conversion  (evaluation )
+	The string "PAYPALISHIRING" is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)
+	P   A   H   N
+	A P L S I I G
+	Y   I   R
+	And then read line by line: "PAHNAPLSIIGYIR"
+	Write the code that will take a string and make this conversion given a number of rows:
+	string convert(string text, int nRows);
+	convert("PAYPALISHIRING", 3) should return "PAHNAPLSIIGYIR".
+
+
+	Valid Binary Search Trees  
+	Given a binary tree, determine if it is a valid binary search tree (BST).
+	Assume a BST is defined as follows:
+	•	The left subtree of a node contains only nodes with keys less than the node's key.
+	•	The right subtree of a node contains only nodes with keys greater than the node's key.
+	•	Both the left and right subtrees must also be binary search trees.
+
+
+	Reverse a linked list.
+	Example
+	For linked list 1->2->3, the reversed linked list is 3->2->1
+
+	Merge two given sorted integer array A and B into a new sorted integer array.
+	Example
+	A=[1,2,3,4]
+	B=[2,4,5,6]
+	return [1,2,2,3,4,4,5,6]
