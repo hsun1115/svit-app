@@ -18,6 +18,25 @@
 	If i is a multiple of 3 (but not 5), print Fizz.
 	If i is a multiple of 5 (but not 3), print Buzz.
 	For all others, print the value of i.
+	//================================
+	public List<String> fizzBuzz(int n) {
+        List<String> ans = new ArrayList<String>();
+    for (int num = 1; num <= n; num++) {
+        if(num % 15 == 0){
+            ans.add("FizzBuzz");
+        }
+        else if(num % 3 == 0){
+            ans.add("Fizz");
+        }
+        else if(num % 5 == 0){
+            ans.add("Buzz");
+        }
+        else{
+            ans.add(Integer.toString(num));
+        }
+    }
+    return ans;
+    }
 
 	ZigZag Conversion  (evaluation )
 	The string "PAYPALISHIRING" is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)
