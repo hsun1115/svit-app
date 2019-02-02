@@ -1,15 +1,17 @@
 1. please create your Github account if you don't have
 
-2. Please install Eclipse if you haven't installed yet
+2. read https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
 
-3. please read attached java class fundamental and we will start java programming 
+3. Please install Eclipse/itellij if you haven't installed yet
+
+4. please read attached java class fundamental and we will start java programming 
 	interface
 	class
 	inheritance
 	Object
 	Interview questions	
 
-4. please practice algorithm 
+5. please practice algorithm 
 	FizzBuzz (evaluation )
 	consider a range of positive integers from 1 to a limit. For each value, print either a string
 	or the value based on whether the number is a multiple of 3, 5, both or neither. Determine the string to
