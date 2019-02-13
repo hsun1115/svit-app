@@ -1,0 +1,7 @@
+-------- Java ----- Do your best to think and work on following
+▪	Merge sort implementation
+▪	Quick sort implementation
+
+
+----- Algorithm----- Please practice following algorithms via leetcode and/or eclipse with input example 
+▪	Preorder , in order, postorder (recursive, iterative)

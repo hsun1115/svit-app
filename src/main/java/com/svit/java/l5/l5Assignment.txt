@@ -1,0 +1,10 @@
+-------- Java ----- Do your best to think and work on following
+- producer and consumer implementation with blocking queue
+- producer and consumer implementation with wait and notify ( A adding 1 to 10, B adding 1 to 10 in sequence A++, B++)
+- simulate a deadlock scenario
+- simulate a CyclicBarrier
+- simulate a CountDownLatch 
+
+
+----- Algorithm----- Please practice following algorithms via leetcode and/or eclipse with input example 
+▪	Preorder , in order, postorder (recursive, iterative)
