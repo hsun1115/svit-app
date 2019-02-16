@@ -1,0 +1,4 @@
+-------- Java ----- Do your best to think and work on following
+- review singleton, factory, iterator, observe pattern
+- write a program with reflection to break singleton patter
+- simulate Adapter, builder, composite, strategy pattern
