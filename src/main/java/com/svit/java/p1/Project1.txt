@@ -18,7 +18,7 @@
  *  type definition,  category,   quantity,  price	
  *  TYPE_BFM, "book", 1, 12.49
  *	TYPE_OTHER_GOODS, "music CD", 1, 14.99
- *	Item.TYPE_BFM, "chocolate bar", 1, 0.85
+ *	TYPE_BFM, "chocolate bar", 1, 0.85
  *  
  *  
  *  input 2: 
@@ -29,8 +29,8 @@
  *  input 3: 
  *  TYPE_OTHER_GOODS_IMPORT, "imported bottle of perfume", 1, 27.99
  *	TYPE_OTHER_GOODS, "bottle of perfume", 1, 18.99
- * 	Item.TYPE_BFM, "packet of headache pills", 1, 9.75
- * 	Item.TYPE_BFM_IMPORT, "box of imported chocolates", 1, 11.25
+ * 	TYPE_BFM, "packet of headache pills", 1, 9.75
+ * 	TYPE_BFM_IMPORT, "box of imported chocolates", 1, 11.25
  *  
  * 
  * Create a custom exception type if needed
