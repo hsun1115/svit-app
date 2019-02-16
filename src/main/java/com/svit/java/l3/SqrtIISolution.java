@@ -25,6 +25,7 @@ public class SqrtIISolution {
 	{ 
 		SqrtIISolution s = new SqrtIISolution(); 
 		System.out.println(s.sqrt(38.987));
-		
+	
+		System.out.println(Math.sqrt(38));
 	} 
 }
