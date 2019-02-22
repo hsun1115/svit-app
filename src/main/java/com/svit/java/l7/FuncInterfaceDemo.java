@@ -2,7 +2,8 @@ package com.svit.java.l7;
 
 /**
  * 
- * @author brian
+ * Code is for learning purpose, not for commercial use.
+ * @author Brian
  *
  */
 interface FuncInterface {
