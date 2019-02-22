@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.svit.java.p1.CartBuilder" project="svit-app" 
+    file="/svit-app/src/main/java/com/svit/java/p1/SalesTaxesFull.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="227" width="215" x="767" y="453"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="2" language="java" name="com.svit.java.p1.Item" project="svit-app" 
+    file="/svit-app/src/main/java/com/svit/java/p1/SalesTaxesFull.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="209" width="229" x="854" y="738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="3" language="java" name="com.svit.java.p1.ItemBuilder" project="svit-app" 
+    file="/svit-app/src/main/java/com/svit/java/p1/SalesTaxesFull.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="173" width="215" x="599" y="738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="4" language="java" name="com.svit.java.p1.Tax" project="svit-app" 
+    file="/svit-app/src/main/java/com/svit/java/p1/SalesTaxesFull.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="191" width="263" x="1123" y="738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.svit.java.p1.GoodsFactory" project="svit-app" 
+    file="/svit-app/src/main/java/com/svit/java/p1/SalesTaxesFull.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1945" y="822"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.svit.java.p1.Goods" project="svit-app" 
+    file="/svit-app/src/main/java/com/svit/java/p1/SalesTaxesFull.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="245" width="192" x="1260" y="453"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.svit.java.p1.BFM" project="svit-app" 
+    file="/svit-app/src/main/java/com/svit/java/p1/SalesTaxesFull.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="173" width="169" x="1426" y="738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.svit.java.p1.ItemsFactory" project="svit-app" 
+    file="/svit-app/src/main/java/com/svit/java/p1/SalesTaxesFull.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1925" y="499"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.svit.java.p1.SalesTaxesFull" project="svit-app" 
+    file="/svit-app/src/main/java/com/svit/java/p1/SalesTaxesFull.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="128" x="599" y="453"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.svit.java.p1.ItemException" project="svit-app" 
+    file="/svit-app/src/main/java/com/svit/java/p1/SalesTaxesFull.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="137" width="149" x="1047" y="453"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.svit.java.p1.OtherGoods" project="svit-app" 
+    file="/svit-app/src/main/java/com/svit/java/p1/SalesTaxesFull.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="173" width="189" x="1635" y="738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="12">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <generalization id="13">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <realization id="14">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <generalization id="15">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <generalization id="16">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="17">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="18" name="tax"/>      
+      <multiplicity id="19" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

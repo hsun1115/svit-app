@@ -1,0 +1,15 @@
+-------- Java ----- Do your best to think and work on following
+read tomcat
+read JPA/Hibernate
+
+----- Algorithm----- Please practice following algorithms via leetcode and/or eclipse with input example 
+* 	bottom-up level order print
+* 	Zigzag Level order print
+  print matrix diagonal 
+  
+  1  2  3  4 
+  5  6  7  8 
+  9 10 11 12
+  13 14 15 16
+  
+  [1], [2, 5], [3, 6, 9] [4, 7, 10, 13] ...
