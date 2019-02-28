@@ -2,10 +2,10 @@ package com.svit.java.Algorithm;
 
 import java.util.ArrayList;
 import java.util.List;
-//	1 1 1 1 1 1 1   top-left (r1, c1)		top row (r1, c) c = c1...c2
+//	1 1 1 1 1 1 1   top-left (r1, c1)	top row (r1, c) c = c1...c2
 //	1 2 2 2 2 2 1	bottom-right (r2, c2)	right col (r, c2) r = r1+1...r2
-//	1 2 3 3 3 2 1							bottom row (r2, c) c = c2-1...c1+1
-//	1 2 2 2 2 2 1							left col (r, c1) r = r2...r1+1
+//	1 2 3 3 3 2 1				bottom row (r2, c) c = c2-1...c1+1
+//	1 2 2 2 2 2 1				left col (r, c1) r = r2...r1+1
 //	1 1 1 1 1 1 1
 public class SpiralMatrix {
 	public List<Integer> spiralOrder(int[][] matrix){
