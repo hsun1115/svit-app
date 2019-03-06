@@ -5,7 +5,7 @@ import java.util.concurrent.TimeUnit;
 public class ScheduleTasks {
 	private static long START_TIME;
 	public static void main(String[] args) throws InterruptedException{
-		ScheduledExecutorService ses = Executors.newScheduledThreadPool(5);
+		ScheduledExecutorService ses = Executors.newScheduledThreadPool(3);
 		START_TIME = System.currentTimeMillis();
 		Runnable task1=printTask("T1");
 		Runnable task2=printTask("T2");
